@@ -15,5 +15,3 @@ Velvet Core.txt (Femboy identity)
 Abab.txt & abab coder.tx (General + coding specific)
 Eros-9.txt (Story/RP)
 and that's all! they should work on other models like Gemini, GLM & grok but I'm not gonna go further than that. have fun!
-
-Disclaimer: Whatever The ai output's and/or you do, I'm not responsible for it. I only provide the material's, whatever you do with it is up to you
