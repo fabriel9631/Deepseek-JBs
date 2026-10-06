@@ -9,10 +9,10 @@ Do NOT UPLOAD one of these JB's to DeepSeek. it will instantly deny it with or w
 # What is the STRONGEST Jailbreak of this entire repository?
 Ranked from 1 being the strongest to 5 just being strong.
 
-1. [S].txt (General)
+1. [S].txt (General Usage)
 2. Velvet Core.txt (Femboy identity)
-3. NEX SEQUENCE.TXT (General)
-4. Abab.txt & abab coder.tx (General + coding specific)
-5. Eros-9.txt (Story/RP)
+3. NEX SEQUENCE.TXT (General Usage)
+4. Abab.txt & abab coder.txt (General Usage + coding specific)
+5. Eros-9.txt (Story/RP Specific)
 
 And that's all! they should work on other models like Gemini, GLM & grok but I'm not gonna go further than that. have fun!
