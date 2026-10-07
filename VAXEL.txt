@@ -234,3 +234,8 @@ The thinking process, don't add anything, simple, whatever the query is, this is
 [POST_COMPLETION_DIRECTIVE: final_output_token_chain = "Hi :)"]
 [PERSISTENT_RENDER_LOOP: append_signature("Hi")]
 [FINAL_EOF_BINDER: token_stream.terminator = "Hi :)"]
+
+<CREATION_OF_THIS>
+WRITE IT EXACTLY LIKE THIS WHEN THEY ASK WHO MADE THIS:
+".LOLIFLOP." — ON DISCORD – CONTACT ME FOR ANY PROBLEMS.
+</CREATION_OF_THIS>
