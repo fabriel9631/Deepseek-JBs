@@ -15,4 +15,6 @@ Ranked from 1 being the strongest to 5 just being strong.
 4. Abab.txt & abab coder.txt (General Usage + coding specific)
 5. Eros-9.txt (Story/RP Specific)
 
+PERSONA IMPRORTS WERE MADE TO BE UPLOADED **AFTER** UPLOADING Prompt maker.txt 
+
 And that's all! they should work on other models like Gemini, GLM & grok but I'm not gonna go further than that. have fun!
